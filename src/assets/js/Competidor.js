@@ -1,6 +1,6 @@
 import axios from "axios";
 
-var url = `https://aname-a05m.onrender.com/API/Aname/V1`;
+var url = `https://aname-api-1e2q.onrender.com/API/Aname/V1`;
 
 
 //Fachadas
